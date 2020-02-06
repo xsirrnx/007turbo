@@ -4,7 +4,7 @@
 <a href="https://github.com/mrwn007/007turbo"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
 <p><h1>Auto Instagram username Hunter 🔎 </h1>
 
-<h2>007spam-BOT</h2>
+<h2>007 Turbo</h2>
 
 
 <img src="https://i.imgur.com/kQ3aEqz.jpg" data-canonical-src="https://i.imgur.com/kQ3aEqz.jpg" style="max-width:100%;">
